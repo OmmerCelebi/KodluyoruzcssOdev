@@ -1,2 +1,2 @@
 # KodluyoruzcssOdev
-CSS odev1 ,odev2
+CSS odev2 ,odev3
